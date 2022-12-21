@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/pervasivefinal2/static/css/main.cad8cf47.css",
+    "main.js": "/pervasivefinal2/static/js/main.6f87c3aa.js",
+    "static/js/787.fade2e9e.chunk.js": "/pervasivefinal2/static/js/787.fade2e9e.chunk.js",
+    "index.html": "/pervasivefinal2/index.html",
+    "main.cad8cf47.css.map": "/pervasivefinal2/static/css/main.cad8cf47.css.map",
+    "main.6f87c3aa.js.map": "/pervasivefinal2/static/js/main.6f87c3aa.js.map",
+    "787.fade2e9e.chunk.js.map": "/pervasivefinal2/static/js/787.fade2e9e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cad8cf47.css",
+    "static/js/main.6f87c3aa.js"
+  ]
+}
